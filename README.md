@@ -15,3 +15,8 @@
 - Android device with USB debugging enabled
 - Linux, macOS terminal
 
+## To run
+
+To run an Artazon with build 10B1 and higher, use `python3 main.py`
+
+Highly recomended compiling main.py for easier use, but not yet supported fully
