@@ -1,2 +1,17 @@
-# artazon
-Artazon A simple and powerful ADB toolkit for the terminal.  Artazon is a command-line toolkit that helps you manage Android devices using ADB. It includes useful scripts and shortcuts for common tasks like app management, file transfer, device control, and more.
+# Artazon
+
+**Artazon** is a lightweight and terminal-based ADB toolkit that simplifies common Android Debug Bridge tasks. It’s designed for Android power users, developers, and tinkerers who prefer using the command line.
+
+## ✨ Features
+
+- 📱 Device detection and information
+- 🧰 App management (install, uninstall, extract, disable, etc.)
+- 📂 File operations (push, pull)
+- 🐚 No GUI – 100% terminal-based
+
+## 🧾 Requirements
+
+- ADB installed and available in your system `$PATH`
+- Android device with USB debugging enabled
+- Linux, macOS terminal
+
