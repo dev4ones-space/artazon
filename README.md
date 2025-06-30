@@ -25,3 +25,6 @@ Recomended using `main.py` bare, pyinstaller or same compilers are not supported
 
 - **Trough my website** (recomended, real development repo): `git clone https://dev4ones.space/git/artazon.git`
 - **Trough GitHub** (if website is not reachable): `git clone https://github.com/dev4ones-space/artazon.git`
+
+
+[Will be added to app list](https://github.com/dev4ones-space/artazon/blob/main/WillBeAdded.md)
