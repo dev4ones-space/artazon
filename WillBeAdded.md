@@ -11,3 +11,14 @@
 - Install root (as another menu)
 - Check root
 - Install some modules (pre-included modules)
+
+**Mispell in code** (very dumb, but to make it more understandable)
+
+if CurrentOS not in main.SupportedPlatoforms: main.activities.UnsupportedOS()
+                                      ^
+Also in main:
+
+class main:
+    ...
+    SupportedPlatoforms = ['Darwin', 'Linux']
+                 ^
