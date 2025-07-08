@@ -1,12 +1,12 @@
 # Will be added to app
 
-**App managment** (as menu, will be added at 11??: 1.1):
+**App managment** (as menu):
 
-- List packages (apps too, as another option)
-- Install apps (will be some pre-included apps for rooting and other)
+- List packages
+- Install apps
 - Remove apps
 
-**Root managment** (as menu, not planned for adding now):
+**Root managment** (as menu, not soon):
 
 - Install root (as another menu)
 - Check root
