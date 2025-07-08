@@ -11,3 +11,13 @@
 - Install root (as another menu)
 - Check root
 - Install some modules (pre-included modules)
+
+**Capture** (as menu)
+
+- Record screen
+- Make an screenshot
+
+**Shell** (as menu)
+
+- Shell itself
+- Pre-included command(like mount / as rw, or set battery procent)
