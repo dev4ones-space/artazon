@@ -28,3 +28,5 @@ Recomended using `main.py` bare, pyinstaller or same compilers are not supported
 
 
 [Will be added to app list](https://github.com/dev4ones-space/artazon/blob/main/WillBeAdded.md)
+
+[Artazon Mobile](https://github.com/dev4ones-space/artazon-mobile)
