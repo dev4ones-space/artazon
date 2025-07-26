@@ -21,9 +21,6 @@ To run an Artazon with build 10B1 and higher, use `python3 main.py`
 
 Recomended using `main.py` bare, pyinstaller or same compilers are not supported yet (path . unsupport)
 
-## Clone repo
+## Clone updatable repo
 
-- **Trough my website** (recomended, old repo is private now): `git clone https://dev4ones.space/git/artazon.git`
-- **Trough GitHub**: `git clone https://github.com/dev4ones-space/artazon.git`
-
-[Will be added to app list](https://github.com/dev4ones-space/artazon/blob/main/WillBeAdded.md)
+`git clone https://dev4ones.space/git/artazon.git`
