@@ -1,3 +1,5 @@
+# Important! Now Artazon files and updates will be uploaded only to git (see more in "Clone updatable repo")
+
 # Artazon
 
 **Artazon** is a lightweight and terminal-based ADB toolkit that simplifies common Android Debug Bridge tasks. It’s designed for Android power users, developers, and tinkerers who prefer using the command line.
