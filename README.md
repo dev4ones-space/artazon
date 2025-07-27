@@ -1,5 +1,3 @@
-# Important! Now Artazon files and updates will be uploaded only to git (see more in "Clone updatable repo")
-
 # Artazon
 
 **Artazon** is a lightweight and terminal-based ADB toolkit that simplifies common Android Debug Bridge tasks. It’s designed for Android power users, developers, and tinkerers who prefer using the command line.
@@ -23,6 +21,4 @@ To run an Artazon with build 10B1 and higher, use `python3 main.py`
 
 Recomended using `main.py` bare, pyinstaller or same compilers are not supported yet (path . unsupport)
 
-## Clone updatable repo
-
-`git clone https://dev4ones.space/git/artazon.git`
+## To clone, use GitHub. (old repo is private now due security reasons)
