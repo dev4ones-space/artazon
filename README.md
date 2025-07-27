@@ -17,16 +17,4 @@
 
 ## To run
 
-To run an Artazon with build 10B1 and higher, use `python3 main.py`
-
-Recomended using `main.py` bare, pyinstaller or same compilers are not supported yet (path . unsupport)
-
-## Clone repo
-
-- **Trough my website** (recomended, real development repo): `git clone https://dev4ones.space/git/artazon.git`
-- **Trough GitHub** (if website is not reachable): `git clone https://github.com/dev4ones-space/artazon.git`
-
-
-[Will be added to app list](https://github.com/dev4ones-space/artazon/blob/main/WillBeAdded.md)
-
-[Artazon Mobile](https://github.com/dev4ones-space/artazon-mobile)
+To run an Artazon with build 11B1-MOBILE and higher, use `python3 main.py`
